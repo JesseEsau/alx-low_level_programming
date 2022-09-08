@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - Prints "programming is like building a multilingual puzzle"
  * Return: 0 if exited properly, non-zero otherwise
